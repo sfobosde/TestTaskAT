@@ -1,0 +1,10 @@
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\bin\Release\TestTaskForActualTech.exe.config
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\bin\Release\TestTaskForActualTech.exe
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\bin\Release\TestTaskForActualTech.pdb
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.csprojAssemblyReference.cache
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.Form1.resources
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.Properties.Resources.resources
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.csproj.GenerateResource.cache
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.exe
+C:\Users\Мвидео\Desktop\TestTaskForActualTech\obj\Release\TestTaskForActualTech.pdb
